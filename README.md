@@ -1,1 +1,2 @@
-# System-strojov-ho-vid-n-pro-ta-en-syntetick-ch-vl-ken
+# Machine vision system for nano/microfiber drawing
+This repository is part of bachelor thesis which solves the issue of usage of machine vision in the process of synhetic fibers production using the drawing method. Main objective of the thesis is to develop machine vision system that detects devices in a workspace of a machine used in synhetic fibers production and determining their coordinates with respect to the machine's coordinate system. The acquired data is then sent to the machine's control system through a JSON file.
